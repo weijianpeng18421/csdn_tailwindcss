@@ -1,0 +1,11 @@
+body {
+    /*下面这两个属性是开启系统悼念模式（全部置灰）*/
+    /*filter: progid:DXImageTransform.Microsoft.BasicImage(graysale=1);*/
+    /*-webkit-filter: grayscale(100%);*/
+}
+
+#app {
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+}
